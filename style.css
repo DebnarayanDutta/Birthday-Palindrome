@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: rgb(17, 17, 90);
+    color: rgb(182, 218, 53);
+}
+#birthday {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 80px;
+}
+#inputDate {
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    border-color: black;
+    width: 200px;
+}
+#check {
+    padding: 5px ;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 30px;
+    border-radius: 6px;
+    border-color: black;
+    font-weight: bold;
+}
+#display {
+    margin-top: 60px;
+    font-size: 40px;
+}
